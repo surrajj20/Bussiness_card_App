@@ -6,16 +6,16 @@
 [![dev](https://img.shields.io/badge/developed%20by%20-suraj%20sah-blue)](https://surrajj20.github.io/Portfolio-of-SURAJ-SAH/)
 ![love](https://img.shields.io/badge/open%20%20source-%E2%9D%A4-red)
 
-# Micard
-Simple Business Card to Show Details!
+# My Card
+Simple Business Card to show your details!
 
 ## App Demo:-
 ![App Demo](images/recording/app-demo.gif)
 
 # Things to do 
-- [x] onTap buttons links and GesturesDetector working.
-- [x] Simple Profile with CV attached.
+- [x] Work onTap buttons, links and GesturesDetector.
+- [x] Attach CV with Profile.
 
 
 ### APK :-
-- [Click Here](https://drive.google.com/file/d/10sfpzsW7AJp8k1TnpctB7sC3h9clLIwh/view?usp=sharing)
+- [Click Here](https://drive.google.com/file/d/10sfpzsW7AJp8k1TnpctB7sC3h9clLIwh/view?usp=sharing) to download and run apk on your android device.
